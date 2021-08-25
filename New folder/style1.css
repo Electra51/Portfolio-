@@ -1,0 +1,22 @@
+body{
+    background-image: url(background2.jpg);
+}
+div{
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px solid rgba(226, 62, 130, 0.301);
+    background-color: rgba(226, 62, 130, 0.301);
+}
+img{
+    padding-left: 10%;
+}
+h2{
+    text-align: center;
+    color: #a12424;
+    font-family: poppins;
+}
+h4{
+    text-align: center;
+    color:#033003 ;
+    font-family: poppins;
+}
